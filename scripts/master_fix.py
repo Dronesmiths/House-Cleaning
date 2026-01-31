@@ -47,7 +47,26 @@ def master_fix(content, filename):
         'all your home and property needs': 'all your home cleaning needs',
         'd1sxjpzrvgytjj.cloudfront.net': 'd20ht2uttlso5r.cloudfront.net',
         '/Users/mediusa/NOVA/Repos/Reed and Sons': '/Users/mediusa/NOVA/Repos/House Cleaners',
-        'Reed and Sons': 'Antelope Valley Home Cleaners'
+        'Reed and Sons': 'Antelope Valley Home Cleaners',
+        'hauled away all our interior waste and construction debris': 'cleaned our entire home and handled all the deep-cleaning',
+        'interior waste and construction debris': 'intensive cleaning and sanitizing',
+        'waste-cleanup-pro.webp': 'deep-clean-master.webp',
+        'debris removal': 'deep sanitizing',
+        'What We Haul Away': 'Deep Cleaning Specialists',
+        'hauling away': 'intensive cleaning',
+        'construction waste': 'environmental dust',
+        'trash': 'dust',
+        'Trash': 'Sanitizing',
+        'hauled': 'deep-cleaned',
+        'Hauled': 'Deep-Cleaned',
+        'debris': 'buildup',
+        'My truck broke down': 'We needed a move-out clean',
+        'towed it for free': 'scheduled us same-day',
+        'paid me cash': 'gave us a great price',
+        'towing': 'cleaning',
+        'Towing': 'Cleaning',
+        'junk car': 'dirty home',
+        'cash same day': 'service same day'
     }
 
     for key, value in purges.items():

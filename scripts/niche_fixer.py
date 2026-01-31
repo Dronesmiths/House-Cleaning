@@ -40,7 +40,7 @@ def fix_content(content):
     # Fix images
     content = content.replace("url('/images/move-out-cleaning-hero.webp')", "url('/images/cleaning specialist-team-refined.webp')")
     content = content.replace("url('/images/cleaning specialist-hero.webp')", "url('/images/leona-valley-oasis.webp')")
-    content = content.replace("url('/images/deep cleaning-junk.webp')", "url('/images/waste-cleanup-pro.webp')")
+    content = content.replace("url('/images/deep cleaning-junk.webp')", "url('/images/deep-clean-master.webp')")
     
     return content
 

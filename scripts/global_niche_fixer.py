@@ -9,7 +9,7 @@ replacements = {
     "Residentials": "Residential Cleanings",
     "move-out-cleaning design": "move-out cleaning",
     "deep cleaning": "deep cleaning",
-    "debris deep-cleaning": "sanitizing",
+    "buildup deep-cleaning": "sanitizing",
     "outdoor lighting": "surface polishing",
     "Outdoor lighting": "Surface polishing",
     "Custom kitchens": "Full kitchen cleaning",
