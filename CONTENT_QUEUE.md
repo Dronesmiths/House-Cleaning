@@ -4,7 +4,7 @@ Use this checklist to track the rollout of the 50 high-authority content pieces.
 
 ## Phase 1: The Authority Foundation (1-10)
 - [x] **01: Cornerstone Guide** - Essential Homeowner's Guide to Property Cleaning in Palmdale
-- [ ] **02: Locality Anchor** - How Antelope Valley Home Cleaners serves Palmdale
+- [x] **02: Locality Anchor** - How Antelope Valley Home Cleaners serves Palmdale
 - [ ] **03: Service Deep Dive** - Move-Out Cleaning Best Practices
 - [ ] **04: Project Spotlight** - Rancho Vista Transformation
 - [x] **05: PAA Capture** - Pass Your Inspection: The Move-Out Checklist
