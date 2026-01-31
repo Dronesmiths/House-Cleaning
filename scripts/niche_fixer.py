@@ -38,9 +38,9 @@ def fix_content(content):
     content = re.sub(r"<h3>Deep Cleaning</h3>\s*<p>.*?</p>", s3_title + "\n                    " + s3_desc, content, flags=re.DOTALL)
 
     # Fix images
-    content = content.replace("url('/images/move-out-cleaning-hero.webp')", "url('/images/handyman-team-refined.webp')")
-    content = content.replace("url('/images/handyman-hero.webp')", "url('/images/leona-valley-oasis.webp')")
-    content = content.replace("url('/images/hauling-junk.webp')", "url('/images/waste-cleanup-pro.webp')")
+    content = content.replace("url('/images/move-out-cleaning-hero.webp')", "url('/images/cleaning specialist-team-refined.webp')")
+    content = content.replace("url('/images/cleaning specialist-hero.webp')", "url('/images/leona-valley-oasis.webp')")
+    content = content.replace("url('/images/deep cleaning-junk.webp')", "url('/images/waste-cleanup-pro.webp')")
     
     return content
 

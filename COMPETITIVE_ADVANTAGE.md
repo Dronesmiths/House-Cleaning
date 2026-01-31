@@ -7,8 +7,8 @@ Define 5 specific reasons why customers choose this brand.
 - **Example 1: Response Time** - "We arrival in 2 hours, not 2 days."
 - **Example 2: Quality/Equipment** - "We use industrial-grade [Equipment], not consumer-level tools."
 - **Example 3: Transparency** - "Absolute pricing with zero hidden fees, verified by digital estimates."
-- **Example 4: Locality** - "We live in [City], we aren't a national franchise dispatched from elsewhere."
-- **Example 5: Warranty/Guarantee** - "Lifetime labor guarantee on every [Service] job."
+- **Example 4: Locality** - "We live in Palmdale, we aren't a national franchise dispatched from elsewhere."
+- **Example 5: Warranty/Guarantee** - "Lifetime labor guarantee on every Home Cleaning job."
 
 ## 2. Competitive Positioning (The "Anti-Commodity" Play)
 - **Identify the "Generic" Competitor**: What do others do poorly? (e.g., "They don't show up", "They leave a mess").
@@ -19,7 +19,7 @@ These advantages must be serialized across the site in these high-impact areas:
 - **Homepage "Why Choose Us"**: The primary grid of 3-5 cards with high-fidelity icons.
 - **Service Pages**: Custom "Pro Tip" or "The [Brand] Difference" sidebars.
 - **About Page**: Deep-dive into the standards and vetting process.
-- **Blog Pillars**: Articles like "5 Things Your [Niche] Company Won't Tell You."
+- **Blog Pillars**: Articles like "5 Things Your Residential Cleaning Company Won't Tell You."
 
 ## 4. Verification & Social Proof
 Every advantage must be backed by a testimonial or a visual asset:

@@ -1,4 +1,4 @@
-# Brand Identity Guide: [Business Name]
+# Brand Identity Guide: Antelope Valley Home Cleaners
 
 This document defines the visual and verbal standards for the brand to ensure consistency across all pages and marketing materials.
 
@@ -13,8 +13,8 @@ This document defines the visual and verbal standards for the brand to ensure co
 - **Tone**: (e.g., Authoritative, Friendly, Urgent, Precise)
 - **Key Phrasings**:
   - "Transform Your Property today!"
-  - "Professional, Hassle-Free [Service]"
-  - "Trusted in [Location] for [N-years]"
+  - "Professional, Hassle-Free Home Cleaning"
+  - "Trusted in Antelope Valley for [N-years]"
 
 ## 3. Imagery Style
 - **Hero Quality**: High-contrast, wide-angle, aspirational.

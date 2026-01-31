@@ -14,8 +14,8 @@ mapping = {
     r'Hardscaping?': 'Residential Cleaning',
     r'handym[ae]n': 'cleaning specialist',
     r'Handym[ae]n': 'Cleaning Specialist',
-    r'hauling': 'deep cleaning',
-    r'Hauling': 'Deep Cleaning',
+    r'deep cleaning': 'deep cleaning',
+    r'Deep Cleaning': 'Deep Cleaning',
 }
 
 def brute_purge(directory):

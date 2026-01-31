@@ -6,8 +6,8 @@ replacements = {
     "yard": "interior",
     "Yard": "Interior",
     "Transform Your Property": "Transform Your Home",
-    "Professional handyman": "Professional house cleaning",
-    "Professional Handyman": "Professional House Cleaning"
+    "Professional cleaning specialist": "Professional house cleaning",
+    "Professional Cleaning Specialist": "Professional House Cleaning"
 }
 
 def bulk_replace(directory):

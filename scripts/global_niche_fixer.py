@@ -8,7 +8,7 @@ replacements = {
     "residentials": "residential cleanings",
     "Residentials": "Residential Cleanings",
     "move-out-cleaning design": "move-out cleaning",
-    "junk removal": "deep cleaning",
+    "deep cleaning": "deep cleaning",
     "debris deep-cleaning": "sanitizing",
     "outdoor lighting": "surface polishing",
     "Outdoor lighting": "Surface polishing",

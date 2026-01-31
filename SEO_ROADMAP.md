@@ -1,14 +1,14 @@
-# SEO Roadmap: [Business Name]
+# SEO Roadmap: Antelope Valley Home Cleaners
 
 This document maps the search strategy to the site structure to ensure maximum organic visibility.
 
 ## 1. Target Keywords
-- **Primary**: (e.g., "[Niche] in [City]")
-- **Secondary**: (e.g., "fast [Service] near me", "best [Service] company")
+- **Primary**: (e.g., "Residential Cleaning in Palmdale")
+- **Secondary**: (e.g., "fast Home Cleaning near me", "best Home Cleaning company")
 
 ## 2. "People Also Ask" (PAA) Strategy
 Include these questions in the FAQ sections of the respective pages:
-- **Homepage**: (e.g., "What is the average cost of [Service]?")
+- **Homepage**: (e.g., "What is the average cost of Home Cleaning?")
 - **Service Pages**: (e.g., "How long does [Specific Service] take?")
 
 ## 3. Local SEO Anchors

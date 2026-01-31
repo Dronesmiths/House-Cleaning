@@ -3,7 +3,7 @@ import re
 import subprocess
 
 # Configuration
-base_dir = "/Users/mediusa/NOVA/Repos/Reed and Sons"
+base_dir = "/Users/mediusa/NOVA/Repos/House Cleaners"
 images_dir = os.path.join(base_dir, "images")
 extensions_to_convert = (".png", ".jpg", ".jpeg")
 
@@ -16,15 +16,15 @@ name_mapping = {
     "Freshly repaired wooden fence in sunlight.png": "fence-repaired.webp",
     "Rustic backyard oasis in Leona Valley.png": "leona-valley-oasis.webp",
     "fence-repair-pro.png": "fence-repair-pro.webp",
-    "handyman-hero.png": "handyman-hero.webp",
-    "handyman_deck_fence_repair.png": "handyman-deck-fence.webp",
-    "handyman_home_maintenance.png": "handyman-maintenance.webp",
-    "handyman_light_fixtures.png": "handyman-fixtures.webp",
-    "handyman_painting_drywall.png": "handyman-painting.webp",
-    "hauling_construction_debris.png": "hauling-debris.webp",
-    "hauling_estate_cleanout.png": "hauling-estate.webp",
-    "hauling_trash_junk.png": "hauling-junk.webp",
-    "hauling_yard_waste.png": "hauling-yard.webp",
+    "cleaning specialist-hero.png": "cleaning specialist-hero.webp",
+    "cleaning specialist_deck_fence_repair.png": "cleaning specialist-deck-fence.webp",
+    "cleaning specialist_home_maintenance.png": "cleaning specialist-maintenance.webp",
+    "cleaning specialist_light_fixtures.png": "cleaning specialist-fixtures.webp",
+    "cleaning specialist_painting_drywall.png": "cleaning specialist-painting.webp",
+    "deep cleaning_construction_debris.png": "deep cleaning-debris.webp",
+    "deep cleaning_estate_cleanout.png": "deep cleaning-estate.webp",
+    "deep cleaning_trash_junk.png": "deep cleaning-junk.webp",
+    "deep cleaning_yard_waste.png": "deep cleaning-yard.webp",
     "hero-pergola.png": "hero-pergola.webp",
     "landscape-hero.png": "landscape-hero.webp",
     "landscape_custom_patio.png": "landscape-patio.webp",
@@ -34,7 +34,7 @@ name_mapping = {
     "logo-full.png": "logo-placeholder.png",
     "logo.png": "logo.webp",
     "outdoor-lighting-pro.png": "outdoor-lighting-pro.webp",
-    "professional_handyman_team_reed_and_sons_refined.png": "handyman-team-refined.webp",
+    "professional_cleaning specialist_team_reed_and_sons_refined.png": "cleaning specialist-team-refined.webp",
     "professional_home_service_team_reed_and_sons_1769565297601.png": "home-service-team.webp",
     "residential-paving.png": "residential-paving.webp",
     "retaining-walls-pro.png": "retaining-walls-pro.webp",
