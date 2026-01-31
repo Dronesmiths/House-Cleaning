@@ -3,15 +3,15 @@
 Use this checklist to track the rollout of the 50 high-authority content pieces. Mark as `[x]` only after the page is live and CloudFront cache is invalidated.
 
 ## Phase 1: The Authority Foundation (1-10)
-- [ ] **01: Cornerstone Guide** - [Topic from BLOG_STRATEGY.md]
-- [ ] **02: Locality Anchor** - How [Brand] serves [Primary HQ]
-- [ ] **03: Service Deep Dive** - [Primary Service] Best Practices
-- [ ] **04: Project Spotlight** - [Neighborhood Name] Transformation
-- [ ] **05: PAA Capture** - How much does Home Cleaning cost in Palmdale?
-- [ ] **06: Service Deep Dive** - [Secondary Service] Quality Standards
-- [ ] **07: Maintenance Tip** - Preparing your [System] for [Season]
-- [ ] **08: Project Spotlight** - Restoration in [Nearby City]
-- [ ] **09: PAA Capture** - Top 5 questions about Home Cleaning in [State]
+- [x] **01: Cornerstone Guide** - Essential Homeowner's Guide to Property Cleaning in Palmdale
+- [ ] **02: Locality Anchor** - How Antelope Valley Home Cleaners serves Palmdale
+- [ ] **03: Service Deep Dive** - Move-Out Cleaning Best Practices
+- [ ] **04: Project Spotlight** - Rancho Vista Transformation
+- [x] **05: PAA Capture** - Pass Your Inspection: The Move-Out Checklist
+- [ ] **06: Service Deep Dive** - Deep Cleaning Quality Standards
+- [ ] **07: Maintenance Tip** - Preparing your Home for Desert Winds
+- [ ] **08: Project Spotlight** - Restoration in Lancaster
+- [x] **09: PAA Capture** - Indoor Air Quality & Professional Sanitizing
 - [ ] **10: Cornerstone Pillar** - The Ultimate Residential Cleaning Checklist
 
 ## Phase 2: Strategic Expansion (11-30)

@@ -12,6 +12,8 @@ def master_fix(content, filename):
         content = content.replace('West Lancaster', 'West Palmdale')
         content = content.replace('East Lancaster', 'East Palmdale')
         content = content.replace('neighborhoods in East Lancaster', 'neighborhoods in East Palmdale')
+        content = content.replace('service in Lancaster', 'service in Palmdale')
+        content = content.replace('serving all of Lancaster', 'serving all of Palmdale')
         content = content.replace('residents choose Antelope Valley Home Cleaners', 'residents choose professional cleaning')
 
     # 3. Forensic Terminology Purge (Global)
@@ -43,6 +45,7 @@ def master_fix(content, filename):
         'Professional home services': 'Professional home cleaning',
         'house-cleaning repairs': 'house-cleaning tasks',
         'all your home and property needs': 'all your home cleaning needs',
+        'd1sxjpzrvgytjj.cloudfront.net': 'd20ht2uttlso5r.cloudfront.net',
         '/Users/mediusa/NOVA/Repos/Reed and Sons': '/Users/mediusa/NOVA/Repos/House Cleaners',
         'Reed and Sons': 'Antelope Valley Home Cleaners'
     }

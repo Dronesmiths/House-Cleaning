@@ -1,0 +1,53 @@
+{
+    "CallerReference": "av-home-cleaners-production-revive",
+    "Aliases": {
+        "Quantity": 0
+    },
+    "DefaultRootObject": "index.html",
+    "Origins": {
+        "Quantity": 1,
+        "Items": [
+            {
+                "Id": "S3-antelope-valley-home-cleaners",
+                "DomainName": "antelope-valley-home-cleaners.s3.us-east-1.amazonaws.com",
+                "S3OriginConfig": {
+                    "OriginAccessIdentity": ""
+                }
+            }
+        ]
+    },
+    "DefaultCacheBehavior": {
+        "TargetOriginId": "S3-antelope-valley-home-cleaners",
+        "ForwardedValues": {
+            "QueryString": false,
+            "Cookies": {
+                "Forward": "none"
+            }
+        },
+        "TrustedSigners": {
+            "Enabled": false,
+            "Quantity": 0
+        },
+        "ViewerProtocolPolicy": "redirect-to-https",
+        "MinTTL": 0,
+        "AllowedMethods": {
+            "Quantity": 2,
+            "Items": [
+                "HEAD",
+                "GET"
+            ],
+            "CachedMethods": {
+                "Quantity": 2,
+                "Items": [
+                    "HEAD",
+                    "GET"
+                ]
+            }
+        }
+    },
+    "CacheBehaviors": {
+        "Quantity": 0
+    },
+    "Comment": "Production distribution for Antelope Valley Home Cleaners",
+    "Enabled": true
+}
